@@ -1,7 +1,24 @@
+
 .sec2 {
   padding: 30px 0 0 0;
   &_item {
-    @apply block border-solid border border-white-red #{!important};
+    @apply block border-solid border border-white-red rounded-2xl1 relative h-h63 pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden #{!important};
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    &_t1 {
+      @apply mt-0 mr-0 mb-mb1.75 ml-0 font-medium text-1sm leading-full-m text-dark-gray relative z-2 #{!important};
+    }
+    &_t2 {
+      @apply m-0 font-normal text-1sm leading-full-m text-dark-gray relative z-2 #{!important};
+    }
+    &_t2 {
+      @apply text-white
+    }
   }
 }
 .contain{
@@ -17,3 +34,4 @@
 .col{
   @apply relative w-full min-h-0 pr-2.5 pl-2.5 #{!important};
 }
+

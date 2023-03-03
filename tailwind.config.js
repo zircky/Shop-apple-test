@@ -12,7 +12,27 @@ module.exports = {
     extend: {
       colors: {
         'white-red': '#ECECEC',
+        'dark-gray': '#101010',
       },
+      borderRadius: {
+        '2xl1': '20px',
+      },
+      spacing: {
+        'h63': '250px',
+        'p30': '30px',
+        'p39': '39px',
+        'p34': '34px',
+        'mb1.75': '7px',
+      },
+      fontSize: {
+        '1sm': '14px',
+      },
+      lineHeight: {
+        'full-m': '120%',
+      },
+      zIndex: {
+        '2': '2',
+      }
     },
   },
   plugins: [],
