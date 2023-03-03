@@ -1,0 +1,19 @@
+.sec2 {
+  padding: 30px 0 0 0;
+  &_item {
+    @apply block border-solid border border-white-red #{!important};
+  }
+}
+.contain{
+  @apply md:container mx-auto px-4 #{!important};
+}
+
+.row{
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  @apply flex flex-wrap -mr-10 -ml-10 #{!important};
+}
+
+.col{
+  @apply relative w-full min-h-0 pr-2.5 pl-2.5 #{!important};
+}
