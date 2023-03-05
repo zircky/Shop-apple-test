@@ -1,8 +1,8 @@
 
 .sec2 {
   padding: 30px 0 0 0;
-  &_item {
-    @apply block border-solid border border-white-red rounded-2xl1 relative h-h63 pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden #{!important};
+  &_item1, &_item2, &_item4, &_item5, &_item6 {
+    @apply block border-solid border border-white-red rounded-2xl1 relative h-h63 pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -webkit-transition: all .5s;
@@ -10,6 +10,28 @@
     -ms-transition: all .5s;
     -o-transition: all .5s;
     transition: all .5s;
+  }
+  &_item3 {
+    @apply block border-solid border border-white-red rounded-2xl1 relative h-[800px] pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+  }
+  &_item_bg_img{
+    @apply absolute inset-0 ;
+    @apply bg-no-repeat bg-center bg-cover #{!important};
+    -webkit-background-size: cover !important;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+  }
+  &_item {
     &_t1 {
       @apply mt-0 mr-0 mb-mb1.75 ml-0 font-medium text-1sm leading-full-m text-dark-gray relative z-2 #{!important};
     }
@@ -20,6 +42,24 @@
       @apply text-white
     }
   }
+}
+.img1 {
+  @apply absolute bottom-8 right-[31px];
+  @apply mx-0 my-0;
+}
+.img2 {}
+.img3 {
+  @apply absolute bottom-0 right-0;
+  @apply mx-0 my-0 #{!important};
+}
+.img4 {}
+.img5 {
+  @apply absolute bottom-0 right-[20px];
+  @apply mx-0 my-0 #{!important};
+}
+.img6 {
+  @apply absolute bottom-0 right-[77px] top-0;
+  @apply m-auto #{!important};
 }
 .contain{
   @apply md:container mx-auto px-4 #{!important};

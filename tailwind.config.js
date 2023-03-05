@@ -10,6 +10,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        sm: '640px',
+        md: '768px',
+        lg: '1024px',
+        xl: '1280px',
+      },
       colors: {
         'white-red': '#ECECEC',
         'dark-gray': '#101010',
@@ -32,7 +38,7 @@ module.exports = {
       },
       zIndex: {
         '2': '2',
-      }
+      },
     },
   },
   plugins: [],

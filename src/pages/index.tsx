@@ -1,6 +1,4 @@
-
 import Catalog from "@/components/Catalog";
-
 
 const Index = () => {
     return (
