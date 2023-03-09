@@ -4,10 +4,10 @@ const ipad = () => {
     return (
         <main>
             <Head>
-                <title>iPod</title>
+                <title>iPad</title>
             </Head>
             <section>
-                <h1>iPod</h1>
+                <h1>iPad</h1>
             </section>
         </main>
     )

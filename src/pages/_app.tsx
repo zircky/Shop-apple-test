@@ -6,13 +6,13 @@ import '@/styles/globals.scss'
 
 
 export default function App({ Component, pageProps }) {
-  const apolloClient = useApollo(pageProps.initialApolloState)
+    const apolloClient = useApollo(pageProps.initialApolloState)
 
-  return (
-    <ApolloProvider client={apolloClient}>
-        <Layout>
-          <Component {...pageProps} />
-        </Layout>
-    </ApolloProvider>
-  )
+    return (
+        <ApolloProvider client={apolloClient}>
+            <Layout>
+                <Component {...pageProps} />
+            </Layout>
+        </ApolloProvider>
+    )
 }

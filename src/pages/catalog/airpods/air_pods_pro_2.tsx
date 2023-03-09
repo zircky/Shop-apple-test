@@ -1,16 +1,15 @@
 import Head from "next/head";
 
-const watch = () => {
+const air_pods_pro_2 = () => {
     return (
         <main>
             <Head>
-                <title>Apple watch</title>
+                <title>AirPods Pro</title>
             </Head>
             <section>
-                <h1>Apple watch</h1>
+                <h1>AirPods Pro 2</h1>
             </section>
         </main>
     )
 }
-
-export default watch
+export default air_pods_pro_2

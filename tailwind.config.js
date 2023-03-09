@@ -9,6 +9,10 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      'display': ['SF-Pro-Display'],
+      'body': ['"SF-Pro-Text"'],
+    },
     extend: {
       screens: {
         sm: '640px',

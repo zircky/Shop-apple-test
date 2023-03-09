@@ -5,17 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b961cd27-7a96-4a3a-bf9b-3e0e02a4f0ba" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api-routes-apollo-server-and-client-auth-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_8/41mm/apple_watch_series_8_stainless_41_mm_grafitovyy_korpus_iz_nerzhaveyushchey_stali_s_milanskoy_petley_Graphite.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_8/41mm/apple_watch_series_8_stainless_41_mm_serebryannyy_korpus_iz_nerzhaveyushchey_stali_s_milanskoy_petley_Silver.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_8/41mm/apple_watch_series_8_stainless_41_mm_zolotoy_korpus_iz_nerzhaveyushchey_stali_s_milanskoy_petley_Gold.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_8/45mm/apple_watch_series_8_stainless_45_mm_grafitovyy_korpus_iz_nerzhaveyushchey_stali_s_milanskoy_petley_Graphite.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_8/45mm/apple_watch_series_8_stainless_45_mm_serebryannyy_korpus_iz_nerzhaveyushchey_stali_s_milanskoy_petley_Silver.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_8/45mm/apple_watch_series_8_stainless_45_mm_zolotoy_korpus_iz_nerzhaveyushchey_stali_s_milanskoy_petley_Gold.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_ultra/49mm/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_alpine_oranzhevogo_tsveta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/applewatch/apple_watch_ultra/49mm/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_alpine_tsveta_siyayushchaya_zvezda.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/sf-pro-display_regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/airpods/air_pods_2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/airpods/air_pods_3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/airpods/air_pods_max.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/airpods/air_pods_pro.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/airpods/air_pods_pro_2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/appleWatch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_41_mm_korpus_iz_alyuminiya_serebristogo_tsveta_sportivnyy_remeshok_remeshok_sin.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_41_mm_korpus_iz_alyuminiya_tsveta_product_red_sportivnyy_remeshok_tsveta_produc.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_41_mm_korpus_iz_alyuminiya_tsveta_siyayushchaya_zvezda_sportivnyy_remeshok_tsve.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_45_mm_korpus_iz_alyuminiya_serebristogo_tsveta_sportivnyy_remeshok_remeshok_sin.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_45_mm_korpus_iz_alyuminiya_tsveta_product_red_sportivnyy_remeshok_tsveta_produc.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_45_mm_korpus_iz_alyuminiya_tsveta_siyayushchaya_zvezda_sportivnyy_remeshok_tsve.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/apple_watch_series_8_45_mm_korpus_iz_alyuminiya_tsveta_tyemnaya_noch_sportivnyy_remeshok_tsveta_tyem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_8/chasy_apple_watch_series_8_gps_41mm_korpus_iz_alyuminiya_temnaya_noch_remeshok_chernyy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_40mm_korpus_iz_alyuminiya_serebro_remeshok_belyy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_40mm_korpus_iz_alyuminiya_siyayushchaya_zvezda_remeshok_siyayushchaya_zvezd.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_40mm_korpus_iz_alyuminiya_siyayushchaya_zvezda_remeshok_siyayushchaya_zvezd1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_40mm_korpus_iz_alyuminiya_temnaya_noch_remeshok_chernyy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_44mm_korpus_iz_alyuminiya_serebro_remeshok_belyy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_44mm_korpus_iz_alyuminiya_siyayushchaya_zvezda_remeshok_siyayushchaya_zvezd.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_se_2022/chasy_apple_watch_se_gps_44mm_korpus_iz_alyuminiya_temnaya_noch_remeshok_chernyy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_alpine_zelenogo_tsveta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_ocean_belogo_tsveta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_ocean_tsveta_tyemnaya_noch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_ocean_zheltogo_tsveta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_trail_chernogo_serogo_tsveta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_trail_sinego_serogo_tsveta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/catalog/applewatch/apple_watch_ultra/apple_watch_ultra_gps_cellular_49_mm_korpus_iz_titana_remeshok_trail_zheltogo_bezhevogo_tsveta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Applewatch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/airpods.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/cart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favorites.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favorites.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/user.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/user.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/userr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/watch/apple_watch_series_8_large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/applewatch/slider/apple_watch_series_8_large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/watch/apple_watch_series_8_medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/applewatch/slider/apple_watch_series_8_medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/watch/apple_watch_series_8_small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/applewatch/slider/apple_watch_series_8_small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/watch/watch2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/applewatch/watch2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Catalog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/catalog/airpods.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/catalog/airpods.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/catalog/Airpods.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/catalog/ipad.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/catalog/ipad.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/catalog/watch.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Home.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/menu.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/menu.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +80,8 @@
       <list>
         <option value="SCSS File" />
         <option value="Sass File" />
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -66,13 +119,6 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="master" />
-      </list>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -87,7 +133,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WEB/api-routes-apollo-server-and-client-auth-app&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WEB/lorian-ecommerce&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;Sass&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -101,14 +147,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\assets\img\applewatch\apple_watch_8" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\assets\img\applewatch\apple_watch_ultra\49mm" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src\pages\catalog\applewatch\apple_watch_ultra" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src\pages\catalog\watch" />
       <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src" />
-      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src\components" />
-      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\assets\img\airpods" />
-      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\assets\img\ipad" />
-      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\assets\img\applewatch\apple_watch_8\45mm" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\assets\img\applewatch\apple_watch_8\41mm" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src\pages\catalog\applewatch\apple_watch_8" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src\pages\catalog\applewatch\apple_watch_ultra" />
+      <recent name="D:\WEB\api-routes-apollo-server-and-client-auth-app\src\pages\catalog\applewatch\apple_watch_se_2022" />
     </key>
   </component>
   <component name="RunManager">
@@ -150,6 +200,14 @@
       <workItem from="1677838792884" duration="12304000" />
       <workItem from="1677910121404" duration="853000" />
       <workItem from="1677931848160" duration="10280000" />
+      <workItem from="1678001666348" duration="1973000" />
+      <workItem from="1678024875907" duration="10009000" />
+      <workItem from="1678094986192" duration="10933000" />
+      <workItem from="1678169714894" duration="7138000" />
+      <workItem from="1678205485833" duration="7829000" />
+      <workItem from="1678260518825" duration="14732000" />
+      <workItem from="1678301620028" duration="66000" />
+      <workItem from="1678343928383" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1677839589936</created>
@@ -172,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677883031068</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1678002648273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678002648273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

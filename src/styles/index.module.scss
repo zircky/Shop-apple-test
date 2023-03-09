@@ -2,7 +2,7 @@
 .sec2 {
   padding: 30px 0 0 0;
   &_item1, &_item2, &_item4, &_item5, &_item6 {
-    @apply block border-solid border border-white-red rounded-2xl1 relative h-h63 pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden;
+    @apply block border-solid border border-white-red rounded-2xl1 relative h-[195px] pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -webkit-transition: all .5s;
@@ -12,7 +12,7 @@
     transition: all .5s;
   }
   &_item3 {
-    @apply block border-solid border border-white-red rounded-2xl1 relative h-[800px] pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden;
+    @apply block border-solid border border-white-red rounded-2xl1 relative h-[517px] w-[300px] pt-p39 pr-p30 pb-p34 pl-p30 overflow-hidden;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -webkit-transition: all .5s;
@@ -31,6 +31,15 @@
     -o-transition: all .5s;
     transition: all .5s;
   }
+  &_item_bg_img1 {
+    @apply bg-[url('../../assets/img/airpods/img_4.webp')]
+  }
+  &_item_bg_im2 {
+    @apply bg-[url('../../assets/img/applewatch/watch2.webp')];
+  }
+  &_item_bg_img3 {
+    @apply bg-[url('../../assets/img/ipad/img_6.webp')];
+  }
   &_item {
     &_t1 {
       @apply mt-0 mr-0 mb-mb1.75 ml-0 font-medium text-1sm leading-full-m text-dark-gray relative z-2 #{!important};
@@ -44,7 +53,7 @@
   }
 }
 .img1 {
-  @apply absolute bottom-8 right-[31px];
+  @apply absolute bottom-0 right-[19px];
   @apply mx-0 my-0;
 }
 .img2 {}
